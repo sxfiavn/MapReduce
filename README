@@ -1,0 +1,9 @@
+In this assignemnt I got to make some map reduce pipelines to process data as follows: 
+
+  1. Given a set of documents, find the inverted index (a matching from each word to a list of document IDs of documents in which that word appears).
+  2. Calculate the similarity of pairs of movies so that if someone watched Frozen (2013), you can recommend other movies they might like, such as Monsters University (2013).
+
+Data
+You are provided with a dataset of movie ratings:
+Source: MovieTweetings by Simon Dooms.
+Overview: Ratings are extracted from tweets and it contains up-to-date movie ratings (the earliest rating contained in this dataset is from Feb 28, 2013). It contains 906,727 ratings from 37,338 movies. 
